@@ -1,0 +1,14 @@
+{
+  "name": "v-vali",
+  "version": "1.0.1",
+  "description": "基于npm的验证插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vali"
+  ],
+  "author": "519333778@qq.com",
+  "license": "ISC"
+}
